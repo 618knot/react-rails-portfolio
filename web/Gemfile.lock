@@ -90,6 +90,7 @@ GEM
     erubi (1.12.0)
     globalid (1.1.0)
       activesupport (>= 5.0)
+    httpclient (2.8.3)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     io-console (0.6.0)
@@ -203,6 +204,7 @@ DEPENDENCIES
   bootsnap
   capybara
   debug
+  httpclient
   jbuilder
   jsbundling-rails
   mysql2 (~> 0.5)
